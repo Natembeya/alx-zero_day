@@ -1,1 +1,1 @@
-My updated readme.
+This file is mandatory in projecs
